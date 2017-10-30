@@ -125,9 +125,12 @@ Advanced:
 
 Beginner:
 
+Intermediate:
+  - https://medium.com/@lunde.andrews/easing-into-functional-programming-in-javascript-30056bcc49a9
+
 Advanced:
   - https://bethallchurch.github.io/JavaScript-and-Functional-Programming/
-
+  - https://medium.com/@drboolean/free-er-monads-in-js-f5a59e7abc82
 
 ### Books
 
